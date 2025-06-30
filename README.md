@@ -15,7 +15,9 @@ A Flutter-based real-time location tracking app that allows users to connect wit
 <li>Flutter clean architecture with reusable components</li></ul>
 
 
-# App Images and Video
+# App Video
 
-https://github.com/user-attachments/assets/62ab47a6-aac4-4a53-9cdc-ef662952331e
+https://github.com/user-attachments/assets/8ee99885-7c69-4327-a111-26433ed898b4
+
+
 
